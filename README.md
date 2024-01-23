@@ -6,7 +6,7 @@
 
 💞 I'm looking to collaborate on anything that can help consumers daily.
 
-I'm currently working at Iclosed as a MERN full-stack developer
+I'm currently working at Iclosed as a Software Engineer.
 
 Add me on Linkedin https://www.linkedin.com/in/mahaaftab/
 
