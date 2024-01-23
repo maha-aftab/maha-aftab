@@ -4,7 +4,7 @@
 
 🌱 I'm currently working on modern technologies i.e. React JS, Nest JS, and SIP Trunking
 
-💞 I'm looking to collaborate on anything that can help consumers daily.
+I'm looking to collaborate on anything that can help consumers daily.
 
 I'm currently working at Iclosed as a Software Engineer.
 
