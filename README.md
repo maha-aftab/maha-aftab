@@ -1,6 +1,6 @@
 👋 Hi, I'm @maha-aftab
 
-👀 I'm mostly interested in MERN Stack Development.
+👀 I'm mostly interested in Full Stack Development focusing on MERN or PERN tech.
 
 🌱 I'm currently working on modern technologies i.e. React JS, Nest JS, and SIP Trunking
 
