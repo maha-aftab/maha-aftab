@@ -1,6 +1,6 @@
 👋 Hi, I'm @maha-aftab
 
-I'm mostly interested in Full Stack Development focusing on MERN or PERN tech, currently working on modern technologies i.e. React JS, Nest JS, and Next JS.
+I'm interested in Full Stack Development focusing on MERN or PERN tech, currently working on modern technologies i.e. React JS, Nest JS, and Next JS.
 I'm currently working at Iclosed as a Software Engineer.
 
 Add me on Linkedin https://www.linkedin.com/in/mahaaftab/
