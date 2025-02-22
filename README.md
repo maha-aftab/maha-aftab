@@ -18,13 +18,7 @@ I'm a **Full Stack Developer** with a strong focus on **MERN** and **PERN** stac
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mahaaftab/)
 - 📧 [Email](mailto:mahaftab02@gmail.com)
 
-- 
-📌 **Pinned Projects:**
-- [🔗 Project Name 1](#) - Brief description
-- [🔗 Project Name 2](#) - Brief description
-
 ⚡ **Fun Fact:** I love to build things that solve real-world problems and optimize workflows!
-
 
 📈 **My GitHub Stats**
 
