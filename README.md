@@ -1,9 +1,30 @@
-👋 Hi, I'm @maha-aftab
+## 👋 Hi, I'm Maha Aftab
 
-I'm interested in Full Stack Development focusing on MERN or PERN tech, currently working on modern technologies i.e. React JS, Nest JS, and Next JS.
-I'm currently working at Iclosed as a Software Engineer.
+I'm a **Full Stack Developer** with a strong focus on **MERN** and **PERN** stacks. I enjoy working with modern technologies like **React.js, Nest.js, and Next.js** to build scalable and high-performing applications.
 
-Add me on Linkedin https://www.linkedin.com/in/mahaaftab/
+### 🚀 About Me
+- 💼 Currently working at **Iclosed** as a **Software Engineer**.
+- 💡 Passionate about **web development, AI-driven applications, and system design**.
+- 🔥 Enthusiastic about **continuous learning** and keeping up with the latest trends in tech.
+- 🌱 Currently exploring **microservices architecture and advanced AI integrations**.
+
+### 🛠 Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS, Redux
+- **Backend:** Node.js, Nest.js, Express.js
+- **Database:** PostgreSQL, MongoDB
+- **Other:** Docker, GraphQL, Prisma, Firebase, Git, CI/CD
+
+### 📫 Let's Connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahaaftab/)
+- 📧 [Email](mailto:mahaftab02@gmail.com)
+
+- 
+📌 **Pinned Projects:**
+- [🔗 Project Name 1](#) - Brief description
+- [🔗 Project Name 2](#) - Brief description
+
+⚡ **Fun Fact:** I love to build things that solve real-world problems and optimize workflows!
+
 
 📈 **My GitHub Stats**
 
